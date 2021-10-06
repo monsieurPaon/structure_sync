@@ -1,0 +1,12 @@
+{
+    "name": "drupal/tink_structure_sync",
+    "description": "Fork of structure sync with translation menu",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Tink",
+            "email": "support@tink.ca"
+        }
+    ],
+    "require": {}
+}
